@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-07-10T15:46:57.263Z</updated>
+  <updated>2017-07-10T15:50:17.610Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/07/10/diyi/"/>
     <id>http://yoursite.com/2017/07/10/diyi/</id>
     <published>2017-07-10T15:44:34.000Z</published>
-    <updated>2017-07-10T15:46:57.263Z</updated>
+    <updated>2017-07-10T15:50:17.610Z</updated>
     
     <content type="html"><![CDATA[<p>都是发生的</p>
 ]]></content>
@@ -32,7 +32,7 @@
     
     </summary>
     
-      <category term="读书笔记" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+      <category term="read" scheme="http://yoursite.com/categories/read/"/>
     
     
   </entry>
