@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-22T06:24:51.147Z</updated>
+  <updated>2017-07-10T15:46:04.117Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>diyi</title>
+    <link href="http://yoursite.com/2017/07/10/diyi/"/>
+    <id>http://yoursite.com/2017/07/10/diyi/</id>
+    <published>2017-07-10T15:44:34.000Z</published>
+    <updated>2017-07-10T15:46:04.117Z</updated>
+    
+    <content type="html"><![CDATA[<p>都是发生的</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;都是发生的&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="阅读" scheme="http://yoursite.com/categories/%E9%98%85%E8%AF%BB/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
