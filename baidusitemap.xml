@@ -4,32 +4,12 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/07/10/diyi/</loc>
-    <lastmod>2017-07-10T15:50:17.610Z</lastmod>
+    <loc>http://yoursite.com/2017/07/11/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2017-07-10T21:56:16.011Z</lastmod>
     <data>
         <display>
-        <title>diyi</title>
-        <pubTime>2017-07-10T15:44:34.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="read" url="http://yoursite.com/categories/read/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-    
-  <url>
-    <loc>http://yoursite.com/2017/05/22/hello-world/</loc>
-    <lastmod>2017-05-22T06:24:51.147Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2017-05-22T06:24:51.147Z</pubTime>
+        <title></title>
+        <pubTime>2017-07-10T21:56:16.011Z</pubTime>
         
          
            
@@ -37,4 +17,5 @@
     </data>
     </url>
 
+    
 </urlset>
