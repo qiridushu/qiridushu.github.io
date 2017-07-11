@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-07-11T00:52:39.352Z</updated>
+  <updated>2017-07-11T00:53:56.679Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,10 +20,9 @@
     <link href="http://yoursite.com/2017/07/11/%E9%98%85%E8%AF%BB%E5%B8%83%E6%B4%9B%E5%85%8B/"/>
     <id>http://yoursite.com/2017/07/11/阅读布洛克/</id>
     <published>2017-07-10T22:09:33.000Z</published>
-    <updated>2017-07-11T00:52:39.352Z</updated>
+    <updated>2017-07-11T00:53:56.679Z</updated>
     
-    <content type="html"><![CDATA[<p>[TOC]</p>
-<h1 id="阅读布洛克"><a href="#阅读布洛克" class="headerlink" title="阅读布洛克"></a>阅读布洛克</h1><hr>
+    <content type="html"><![CDATA[<hr>
 <h2 id="一、基本阅读书目：马修斯卡德系列"><a href="#一、基本阅读书目：马修斯卡德系列" class="headerlink" title="一、基本阅读书目：马修斯卡德系列"></a>一、基本阅读书目：马修斯卡德系列</h2><p>1.《父之罪》</p>
 <p>2.《在死亡之中》</p>
 <p>3.《谋杀与创造之时》</p>
@@ -44,9 +43,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;[TOC]&lt;/p&gt;
-&lt;h1 id=&quot;阅读布洛克&quot;&gt;&lt;a href=&quot;#阅读布洛克&quot; class=&quot;headerlink&quot; title=&quot;阅读布洛克&quot;&gt;&lt;/a&gt;阅读布洛克&lt;/h1&gt;&lt;hr&gt;
-&lt;h2 id=&quot;一、基本阅读书目：马修斯卡德系列&quot;&gt;&lt;a href=&quot;#一、基本阅读书
+      &lt;hr&gt;
+&lt;h2 id=&quot;一、基本阅读书目：马修斯卡德系列&quot;&gt;&lt;a href=&quot;#一、基本阅读书目：马修斯卡德系列&quot; class=&quot;headerlink&quot; title=&quot;一、基本阅读书目：马修斯卡德系列&quot;&gt;&lt;/a&gt;一、基本阅读书目：马修斯卡德系列&lt;/h2&gt;&lt;p&gt;1.《父之罪》&lt;/
     
     </summary>
     
